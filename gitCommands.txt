@@ -1,0 +1,16 @@
+git status
+git init
+git reset 
+git add .
+git add file name
+git stash
+git log
+git stash pop
+git stash clear
+git remote add origin url  // repo url | origin is used for all repo in our git account
+git push origin master  // master is branch
+git commit -m "message"
+git branch "branch name"
+git checkout feature
+git merge "branch name"
+git remote -v
