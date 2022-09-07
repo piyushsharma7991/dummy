@@ -14,3 +14,6 @@ git branch "branch name"
 git checkout feature
 git merge "branch name"
 git remote -v
+git log --oneline
+git fetch and then git pull origin "branch name"
+
